@@ -1,0 +1,8 @@
+wso.php
+hoki.php
+index.php
+alfa.php
+wso.php
+lib.php
+tg.php
+ts.php
