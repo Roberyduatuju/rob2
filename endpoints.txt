@@ -1,0 +1,9 @@
+ts.php
+tg.php
+alfa.php
+hoki.php
+index.php
+ALFA_DATA
+alfacgiapi
+geko.php
+wso.php
